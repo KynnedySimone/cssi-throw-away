@@ -7,3 +7,12 @@ Things we're learning
 
 - git checkout -b /name/
 --- commit branch
+
+- git push origin /branchName/
+--- push to specific branch
+
+- to get to another branch, go back through main
+- git checkout main
+
+
+- I MISSED JUNGKOOK'S VLIVE AND NOW I AM DEPRESSIONNNNNN WAHHHHHHHHHHH!!! WHY DOES THE UNIVERSE HATE MEEEE, I WAS WORKING UGHUGHUGHUGHUGHHUGHUGHUGHH
